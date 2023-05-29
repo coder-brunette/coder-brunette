@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Tabinda Hayat
 #### Data Scientist | Python Enthusiast
 
-![Data Scientist | Python Enthusiast](https://i.pinimg.com/originals/1a/f1/c6/1af1c62ecf24b3d90a9f4f205914e27e.jpg)
+![Data Scientist | Python Enthusiast]([https://i.pinimg.com/originals/1a/f1/c6/1af1c62ecf24b3d90a9f4f205914e27e.jpg](https://raw.githubusercontent.com/coder-brunette/coder-brunette/main/775e62b8-bbf8-45b0-91d1-8da96a495092.jpg))
 
 Hi, I am Tabinda Hayat from United States of America. I am a Data Scientist. I possess acumen in building deep reinforcement learning models and real world simulations. I am passionate to demostrate and continuously learn about the capabilities of the Artificial Intelligence to solve different use-cases. Looking forward to work with the latest cutting-edge technologies to continually improve and add value to the solutions for real-world problems. 
 
