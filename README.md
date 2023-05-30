@@ -36,4 +36,4 @@ You can check out my portfolio at https://www.tabindahayat.com or connect me on 
 
 
 ![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-4.gif)
-![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-5.gif)
+![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-6.gif)
