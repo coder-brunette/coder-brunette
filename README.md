@@ -1,13 +1,24 @@
-### Hi there 👋, my name is Tabinda Hayat
-#### Data Scientist | Python Enthusiast
-
 ![Data Scientist | Python Enthusiast](https://github.com/coder-brunette/coder-brunette/blob/main/775e62b8-bbf8-45b0-91d1-8da96a495092.jpg)
+
+# Tabinda Hayat 🎓
 
 Hi, I am Tabinda Hayat from United States of America. I am a Data Scientist. I possess acumen in building deep reinforcement learning models and simulations. I am passionate to demostrate and continuously learn about the capabilities of the Artificial Intelligence to solve different use-cases. Looking forward to work with the latest cutting-edge technologies to continually improve and add value to the solutions for real-world problems. 
 
 You can check out my portfolio at https://www.tabindahayat.com or connect me on LinkedIn at https://www.linkedin.com/in/tabindahayat/ and Instagram at https://www.instagram.com/t.a.b.b.y_h/.
 
-Skills: Python / R / Machine Learning / Microsoft Azure / SQL / Google Cloud Platform / PySpark / Data Mining / Data Visualization
+## Data Scientist | Python Enthusiast
+
+### Skills and Experience
+* 👩🏻‍💻 Python 
+* 🇷 R 
+* 🛢 SQL 
+* 📈 Machine Learning
+* 📊 Data Visualization
+* 📑 Data Mining
+* ⚡ PySpark
+* 🔎☁️ Microsoft Azure 
+* 🇬 Google Cloud Platform
+* ❄️ Deep Learning
 
 - 🔭 I’m currently working on ME 😎 
 - 🌱 I’m currently learning Conjunction of NLP with Robotics 
