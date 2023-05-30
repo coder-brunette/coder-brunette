@@ -4,7 +4,7 @@
 
 Hi, I am Tabinda Hayat from United States of America. I am a Data Scientist. I possess acumen in building deep reinforcement learning models and simulations. I am passionate to demostrate and continuously learn about the capabilities of the Artificial Intelligence to solve different use-cases. Looking forward to work with the latest cutting-edge technologies to continually improve and add value to the solutions for real-world problems. 
 
-You can check out my portfolio at https://www.tabindahayat.com or connect me on LinkedIn at https://www.linkedin.com/in/tabindahayat/ and Instagram at https://www.instagram.com/t.a.b.b.y_h/. ![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-3.gif)
+You can check out my portfolio at https://www.tabindahayat.com or connect me on LinkedIn at https://www.linkedin.com/in/tabindahayat/ and Instagram at https://www.instagram.com/t.a.b.b.y_h/.
 
 ### ![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-2.gif) Data Scientist | Python Enthusiast
 
@@ -35,4 +35,4 @@ You can check out my portfolio at https://www.tabindahayat.com or connect me on 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
-![](https://github.com/coder-brunette/coder-brunette/blob/main/gif3.gif)
+![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-3.gif)
