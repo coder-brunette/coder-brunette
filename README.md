@@ -1,8 +1,6 @@
-![Data Scientist | Python Enthusiast](https://github.com/coder-brunette/coder-brunette/blob/main/775e62b8-bbf8-45b0-91d1-8da96a495092.jpg)
+![](https://github.com/coder-brunette/coder-brunette/blob/main/gif2.gif)
 
 # Tabinda Hayat 🎓
-
-![](https://github.com/coder-brunette/coder-brunette/blob/main/gif2.gif)
 
 Hi, I am Tabinda Hayat from United States of America. I am a Data Scientist. I possess acumen in building deep reinforcement learning models and simulations. I am passionate to demostrate and continuously learn about the capabilities of the Artificial Intelligence to solve different use-cases. Looking forward to work with the latest cutting-edge technologies to continually improve and add value to the solutions for real-world problems. 
 
