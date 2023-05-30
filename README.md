@@ -1,8 +1,10 @@
-![](https://github.com/coder-brunette/coder-brunette/blob/main/gif2.gif)
+![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-7.gif)
 
 # Tabinda Hayat 🎓
 
 Hi, I am Tabinda Hayat from United States of America. I am a Data Scientist. I possess acumen in building deep reinforcement learning models and simulations. I am passionate to demostrate and continuously learn about the capabilities of the Artificial Intelligence to solve different use-cases. Looking forward to work with the latest cutting-edge technologies to continually improve and add value to the solutions for real-world problems. 
+
+![](https://github.com/coder-brunette/coder-brunette/blob/main/gif1.gif)
 
 You can check out my portfolio at https://www.tabindahayat.com or connect me on LinkedIn at https://www.linkedin.com/in/tabindahayat/ and Instagram at https://www.instagram.com/t.a.b.b.y_h/.
 
