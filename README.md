@@ -20,6 +20,8 @@ You can check out my portfolio at https://www.tabindahayat.com or connect me on 
 * 🇬 Google Cloud Platform
 * ❄️ Deep Learning
 
+#### About ME!
+
 - 🔭 I’m currently working on ME 😎 
 - 🌱 I’m currently learning Conjunction of NLP with Robotics 
 - 👯 I’m looking to collaborate on Deep Learning projects 
