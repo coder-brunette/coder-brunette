@@ -2,6 +2,8 @@
 
 # Tabinda Hayat 🎓
 
+https://media.giphy.com/media/ACdlsmViQciA8BfGp3/giphy.gif?cid=ecf05e47mbvvdhfwq07w5g6aqh23gubthx8sbaatqol48ydo&ep=v1_gifs_search&rid=giphy.gif&ct=g
+
 Hi, I am Tabinda Hayat from United States of America. I am a Data Scientist. I possess acumen in building deep reinforcement learning models and simulations. I am passionate to demostrate and continuously learn about the capabilities of the Artificial Intelligence to solve different use-cases. Looking forward to work with the latest cutting-edge technologies to continually improve and add value to the solutions for real-world problems. 
 
 You can check out my portfolio at https://www.tabindahayat.com or connect me on LinkedIn at https://www.linkedin.com/in/tabindahayat/ and Instagram at https://www.instagram.com/t.a.b.b.y_h/.
