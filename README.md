@@ -8,6 +8,8 @@ You can check out my portfolio at https://www.tabindahayat.com or connect me on 
 
 ### Data Scientist | Python Enthusiast
 
+![](https://github.com/coder-brunette/coder-brunette/blob/main/gif5.gif)
+
 ### Skills and Experience
 * 👩🏻‍💻 Python 
 * 🇷 R 
