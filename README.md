@@ -1,4 +1,4 @@
-![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-7.gif)
+![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-10.gif)
 
 # Tabinda Hayat 🎓
 
