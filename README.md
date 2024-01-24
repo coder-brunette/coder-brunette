@@ -30,7 +30,6 @@ You can check out my portfolio at https://www.tabindahayat.com or connect me on 
 - 🤔 I’m looking for help with Robotics 
 - 💬 Ask me about Data Science | NASA L'SPACE Program | Cats | Islam 
 - 📫 How to reach me: tabindahayat2@gmail.com 
-- 😄 Pronouns: She/ her 
 - ⚡ Fun fact: Did you know that time passes more quickly for people who are closer to the Earth's center compared to those at higher altitudes?🤔🫣 This phenomenon is due to a concept known as gravitational time dilation, which arises from Einstein's theory of relativity. 
 
 
