@@ -6,7 +6,7 @@ Hi, I am Tabinda Hayat from US. I am a Data Scientist. I possess acumen in build
 
 ![](https://github.com/coder-brunette/coder-brunette/blob/main/gif2.gif)
 
-You can check out my portfolio at https://www.tabindahayat.com or connect me on LinkedIn at https://www.linkedin.com/in/tabindahayat/ and Instagram at https://www.instagram.com/t.a.b.b.y_h/.
+You can connect with me on LinkedIn at https://www.linkedin.com/in/tabindahayat/ and Instagram at https://www.instagram.com/t.a.b.b.y_h/.
 
 ### ![](https://github.com/coder-brunette/coder-brunette/blob/main/ezgif.com-resize-2.gif) Data Scientist | Python Enthusiast
 
